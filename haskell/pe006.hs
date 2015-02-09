@@ -1,0 +1,1 @@
+-- Closed form, easy game easy life
